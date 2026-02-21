@@ -1,0 +1,13 @@
+# Raw data (too large for GitHub)
+dados_brutos/
+
+# Large fact table (397 MB - exceeds GitHub 100 MB limit)
+pbi_data/fato_rais.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+.DS_Store

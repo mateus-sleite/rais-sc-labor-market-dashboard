@@ -1,0 +1,44 @@
+{
+    "name": "RAIS SC - Tema Profissional",
+    "dataColors": [
+        "#1A3A5C",
+        "#4A90D9",
+        "#E67E22",
+        "#2ECC71",
+        "#9B59B6",
+        "#E74C3C",
+        "#1ABC9C",
+        "#F39C12",
+        "#34495E",
+        "#7F8C8D"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#1A3A5C",
+    "tableAccent": "#4A90D9",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "general": [{
+                    "responsive": true
+                }],
+                "title": [{
+                    "fontFamily": "Segoe UI Semibold",
+                    "fontSize": 12,
+                    "fontColor": {"solid": {"color": "#1A3A5C"}}
+                }],
+                "labels": [{
+                    "fontFamily": "Segoe UI",
+                    "fontSize": 10,
+                    "fontColor": {"solid": {"color": "#666666"}}
+                }]
+            }
+        },
+        "card": {
+            "*": {
+                "labels": [{
+                    "fontSize": 28
+                }]
+            }
+        }
+    }
+}

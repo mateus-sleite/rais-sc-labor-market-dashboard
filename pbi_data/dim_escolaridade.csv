@@ -1,0 +1,13 @@
+﻿cod_escolaridade,escolaridade
+1,Analfabeto
+2,Até 5ª Incompleto
+3,5ª Completo
+4,6ª a 9ª Incompleto
+5,9ª Completo
+6,Médio Incompleto
+7,Médio Completo
+8,Superior Incompleto
+9,Superior Completo
+10,Mestrado
+11,Doutorado
+99,Não classificado
